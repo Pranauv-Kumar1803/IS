@@ -1,0 +1,17 @@
+{
+  "name": "login-signup-form-main",
+  "version": "1.0.0",
+  "description": "Create a stunning login and signup experience with this animated form that features a flip effect, glass effect, and a password show/hide feature. The form provides a sleek and modern user interface for authentication.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
+  }
+}
